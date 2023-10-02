@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tseg-1221
+- 👋 Hi, I’m Tsegaye Tadese
 - 👀 I’m interested in Artificial Intelligent
 - 🌱 I’m currently learning programming langouge, database and computer networking's 
 - 💞️ I’m looking to collaborate on Junior software developing
